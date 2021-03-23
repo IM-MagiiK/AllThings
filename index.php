@@ -34,6 +34,9 @@
         } else {
             $action = "index";
         }
+
+        
+        
         //echo " action :".$action;
 
         // On vide les 2 premières lignes de params car ils sont stockés dans controleur et action, donc on en a plus besoin et

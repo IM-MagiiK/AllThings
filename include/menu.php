@@ -18,7 +18,7 @@
 </style>
 
 <nav class="navbar navbar-expand-lg navbar-dark bgBlack">
-  <a class="navbar-brand" href="#">ALLTHINGS</a>
+  <a class="navbar-brand" href="allThing">ALLTHINGS</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -34,7 +34,7 @@
         <a class="nav-link" href="#">Contact</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="connexion.php">Connexion</a>
+        <a class="nav-link" href="connexion-index">Connexion</a>
       </li>
     </ul>
   </div>
