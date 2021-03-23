@@ -14,6 +14,7 @@
 }
 
 
+
 </style>
 
 <nav class="navbar navbar-expand-lg navbar-dark bgBlack">
@@ -33,10 +34,8 @@
         <a class="nav-link" href="#">Contact</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Connexion</a>
+        <a class="nav-link" href="connexion.php">Connexion</a>
       </li>
     </ul>
   </div>
 </nav>
-
-<p>test</p>
